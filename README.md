@@ -1,9 +1,11 @@
 # Basic Layout for online store
 This is a basic layout for a online store using HTML and CSS 
 
+- the intention of this repository is to make use of visual tools like HTML and CSS for this reason the code is not optimized for performance and interactivity
+
 - it does not need frameworks and libraries to run the code, only need a ethernet connection to see de HTML files with their respective CSS styles
 
-- this is only the visual part for another project, where i am going to create the engine page using back-end code
+- this is only the visual part for another project that will be made in the future 
 
 ## What is "Templates"
  In templates we´re gonna find all the HTML templates like a page menu or a shopping cart model
