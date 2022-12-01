@@ -3,7 +3,7 @@ This is a basic layout for a online store using HTML and CSS
 
 - the intention of this repository is to make use of visual tools like HTML and CSS for this reason the code is not optimized for performance and interactivity
 
-- it does not need frameworks and libraries to run the code, only need a ethernet connection to see de HTML files with their respective CSS styles
+- it does not need frameworks and libraries to run the code, only need a ethernet connection to see de HTML files with their respective CSS styles at browser
 
 - this is only the visual part for another project that will be made in the future 
 
